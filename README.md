@@ -4,6 +4,16 @@ Full-stack exercise tracker built with a React frontend and a Node/Express REST 
 
 This project was built as a portfolio project to practice full-stack development and REST API design.
 
+## Screenshots
+
+**Main exercise list**
+
+![Main page](screenshots/main.png)
+
+**Add exercise form**
+
+![Add exercise](screenshots/add.png)
+
 ## Features
 
 - Create, edit, and delete exercises
